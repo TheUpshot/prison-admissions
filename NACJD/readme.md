@@ -1,5 +1,5 @@
 Running these scripts requires accessing the [National Corrections Report Program](http://www.icpsr.umich.edu/icpsrweb/content/NACJD/guides/ncrp.html) through the 
-[National Archive of Criminal Justice Data](https://www.icpsr.umich.edu/icpsrweb/NACJD/index.jsp). This requires institutional review board approval. 
+[National Archive of Criminal Justice Data](https://www.icpsr.umich.edu/icpsrweb/NACJD/index.jsp). 
 
 `combine.r` merges the Term Record file with the Prison Admissions records.
 
