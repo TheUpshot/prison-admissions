@@ -1,6 +1,6 @@
 # prison-admissions
 
-U.S. state prison admissions by county, based on an analysis by Josh Keller and Adam Pearce of the New York Times, with assistance from John Pfaff of Fordham University. Used in [This small Indiana county sends more people to prison than San Francisco and Durham, N.C., combined. Why?
+U.S. state prison admissions by county, based on an analysis by Josh Keller and Adam Pearce of the New York Times, with assistance from John Pfaff of Fordham University. Used in The New York Times story [This small Indiana county sends more people to prison than San Francisco and Durham, N.C., combined. Why?
 ](http://www.nytimes.com/2016/09/02/upshot/new-geography-of-prisons.html)
 
 The [National Corrections Reporting Program](http://www.icpsr.umich.edu/icpsrweb/NACJD/series/38/studies/36373?archive=NACJD&sortBy=7) (NCRP) was the primary source for our analysis. We include summary data for calendar years 2006, 2013 and 2014. 
