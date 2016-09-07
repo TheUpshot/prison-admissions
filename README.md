@@ -9,7 +9,7 @@ Prison admissions include any new inmates, whether from new court commitments or
 
 >Prisoner movements that increased the custody counts of each reporting state. Additions to the custody count, such as the arrival of new inmates, the return to prison of parole violators, and transfers from other jurisdictions, were classified as admission movements. Multiple admissions per person during the year were recorded as separate movements.
 
-Most states send people with sentences of a year or more to prison and people with shorter sentences to jail. (Jail admissions are not included here but exhibit some of the same trends, see [work by the Vera Institute of Justice](http://trends.vera.org/)). Some states, like Massachussets and Texas, send people with longer sentences to jail or people with shorter sentences to prison. The Bureau of Justice Statistics has written a [state-by-state guide](http://ncrp.info/SitePages/StateFactSheets) to prison systems.
+Most states send people with sentences of a year or more to prison and people with shorter sentences to jail. (Jail admissions are not included here but exhibit some of the same trends, see [work by the Vera Institute of Justice](http://trends.vera.org/)). Some states, like Massachussets and Texas, send people with longer sentences to jail or people with shorter sentences to prison. We excluded inmates with sentences shorter than one year in North Carolina and South Carolina. The Bureau of Justice Statistics has written a [state-by-state guide](http://ncrp.info/SitePages/StateFactSheets) to prison systems.
 
 The county listed is the location of the court where sentences were imposed, not necessarily the county where the prisoner lived or the county where the inmate was imprisoned.
 
