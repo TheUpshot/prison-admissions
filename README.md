@@ -15,7 +15,7 @@ The county listed is the location of the court where sentences were imposed, not
 
 The data quality in NCRP has improved markedly, but not all states report reliable data. We reviewed each state's NCRP data and compared its total admissions numbers to the [National Prisoner Statics Program](http://www.bjs.gov/index.cfm?ty=dcdetail&iid=269) (NPS) and, in some cases, data from individual state departments of corrections. State data years with large differences in admissions numbers between NCRP and NPS (greater than 20 percent) were excluded unless the NCRP numbers could be independently validated.
 
-The columns `valid2006`, `valid2013`, `valid201`4 describe whether a county had valid data for each year. Invalid data is omitted, and data based on fewer than five prisoners in one county is replaced with 'N/A' in order to respect potential privacy concerns. This means that data for some very low-population counties is not included.
+The columns `valid2006`, `valid2013`, `valid2014` describe whether a county had valid data for each year. Invalid data is omitted, and data based on fewer than five prisoners in one county is replaced with 'N/A' in order to respect potential privacy concerns. This means that data for some very low-population counties is not included.
 
 We obtained data from five states – Arizona, Delaware, Kansas, New Mexico, Illinois – directly from state departments of corrections or sentencing commissions. The source of each row of data is noted in the `source` field.
 
