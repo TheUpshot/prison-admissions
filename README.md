@@ -17,6 +17,6 @@ The data quality in the NCRP has improved markedly, but not all states report re
 
 The columns `valid2006`, `valid2013`, `valid2014` describe whether a county had valid data for each year. Invalid data is omitted, and data based on fewer than five prisoners in one county is replaced with 'N/A' in order to respect potential privacy concerns. This means that data for some very low-population counties is not included.
 
-We obtained data for five states – Arizona, Delaware, Kansas, New Mexico, Illinois – directly from state departments of corrections or sentencing commissions. The source of each row of data is noted in the `source` field.
+We obtained data for four states – Idaho, Kansas, New Mexico and Ohio (2006 only) – directly from state departments of corrections or sentencing commissions. The source of each row of data is noted in the `source` field.
 
 The `NACJD` folder has the code used to count the number of admissions per county, but The Department of Justice limits access to the full NCRP dataset to those with an approved research exemption. 
