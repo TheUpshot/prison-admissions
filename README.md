@@ -3,7 +3,7 @@
 U.S. state prison admissions by county, based on an analysis by Josh Keller and Adam Pearce of the New York Times, with assistance from John Pfaff of Fordham University. Used in [This small Indiana county sends more people to prison than San Francisco and Durham, N.C., combined. Why?
 ](http://www.nytimes.com/2016/09/02/upshot/new-geography-of-prisons.html)
 
-The [National Corrections Reporting Program](http://www.icpsr.umich.edu/icpsrweb/NACJD/series/38/studies/36373?archive=NACJD&sortBy=7) was the primary source for our analysis. We include data for calendar years 2006, 2013 and 2014.
+The [National Corrections Reporting Program](http://www.icpsr.umich.edu/icpsrweb/NACJD/series/38/studies/36373?archive=NACJD&sortBy=7) (NCRP) was the primary source for our analysis. We include data for calendar years 2006, 2013 and 2014.
 
 Prison admissions include any new inmates, whether from new court commitments or parole and probation revocations. The NCRP defines a prison admission as:
 
@@ -13,7 +13,7 @@ Most states send people with sentences of a year or more to prison and people wi
 
 The county listed is the location of the court where sentences were imposed, not necessarily the county where the prisoner lived or the county where the inmate was imprisoned.
 
-The data quality in NCRP has improved markedly, but not all states report reliable data. We reviewed each state's NCRP data and compared its total admissions numbers to the [National Prisoner Statics Program](http://www.bjs.gov/index.cfm?ty=dcdetail&iid=269) and, in some cases, data from individual state departments of corrections. State data years with large differences in admissions numbers between NCRP and NPS (greater than 20 percent) were excluded unless the NCRP numbers could be independently validated.
+The data quality in NCRP has improved markedly, but not all states report reliable data. We reviewed each state's NCRP data and compared its total admissions numbers to the [National Prisoner Statics Program](http://www.bjs.gov/index.cfm?ty=dcdetail&iid=269) (NPS) and, in some cases, data from individual state departments of corrections. State data years with large differences in admissions numbers between NCRP and NPS (greater than 20 percent) were excluded unless the NCRP numbers could be independently validated.
 
 The columns valid2006, valid2013, valid2014 described whether a county had valid data for each year. Invalid data is omitted, and data based on fewer than five prisoners in one county is replaced with 'N/A' in order to respect potential privacy concerns. This means that data for some very low-population counties is not included.
 
