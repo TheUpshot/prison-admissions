@@ -1794,39 +1794,39 @@ fips,county,state,admitsPer10k2006,admitsPer10k2013,admitsPer10k2014,valid06,val
 34037,Sussex County,NJ,7.23344420107623,6.8615342390558505,NA,true,true,,150508,145740,144909,107,100,NA,NCRP
 34039,Union County,NJ,22.624350682985302,14.0616274014367,NA,true,true,,525153,549723,552939,1223,773,NA,NCRP
 34041,Warren County,NJ,10.078594544613999,8.704686490888161,NA,true,true,,109059,106839,106917,109,93,NA,NCRP
-35001,Bernalillo County,NM,NA,NA,21.671198769596966,,,true,628632,674883,675551,NA,NA,"1,464",New Mexico Sentencing Commission
+35001,Bernalillo County,NM,NA,NA,20.768232154197094,,,true,628632,674883,675551,NA,NA,"1,403",New Mexico Sentencing Commission
 35003,Catron County,NM,NA,NA,2.81214848143982,,,true,3573,3592,3556,NA,NA,1,New Mexico Sentencing Commission
-35005,Chaves County,NM,NA,NA,30.966331704059016,,,true,62486,66041,65878,NA,NA,204,New Mexico Sentencing Commission
-35006,Cibola County,NM,NA,NA,10.96932246151596,,,true,27032,27483,27349,NA,NA,30,New Mexico Sentencing Commission
-35007,Colfax County,NM,NA,NA,35.488958990536275,,,true,13982,13054,12680,NA,NA,45,New Mexico Sentencing Commission
-35009,Curry County,NM,NA,NA,31.784025584178618,,,true,47018,50580,50969,NA,NA,162,New Mexico Sentencing Commission
-35011,De Baca County,NM,NA,NA,43.83561643835616,,,true,1994,1891,1825,NA,NA,8,New Mexico Sentencing Commission
-35013,Dona Ana County,NM,NA,NA,20.404724910612327,,,true,193701,213697,213676,NA,NA,436,New Mexico Sentencing Commission
-35015,Eddy County,NM,NA,NA,25.179537193013566,,,true,51366,55486,56395,NA,NA,142,New Mexico Sentencing Commission
-35017,Grant County,NM,NA,NA,16.840802859499586,,,true,29503,29310,29096,NA,NA,49,New Mexico Sentencing Commission
-35019,Guadalupe County,NM,NA,NA,24.619516562220234,,,true,4701,4560,4468,NA,NA,11,New Mexico Sentencing Commission
+35005,Chaves County,NM,NA,NA,29.14478278029084,,,true,62486,66041,65878,NA,NA,192,New Mexico Sentencing Commission
+35006,Cibola County,NM,NA,NA,9.141102051263301,,,true,27032,27483,27349,NA,NA,25,New Mexico Sentencing Commission
+35007,Colfax County,NM,NA,NA,22.082018927444793,,,true,13982,13054,12680,NA,NA,28,New Mexico Sentencing Commission
+35009,Curry County,NM,NA,NA,30.999234829013712,,,true,47018,50580,50969,NA,NA,158,New Mexico Sentencing Commission
+35011,De Baca County,NM,NA,NA,38.35616438356164,,,true,1994,1891,1825,NA,NA,7,New Mexico Sentencing Commission
+35013,Dona Ana County,NM,NA,NA,18.43913214399371,,,true,193701,213697,213676,NA,NA,394,New Mexico Sentencing Commission
+35015,Eddy County,NM,NA,NA,24.292933770724357,,,true,51366,55486,56395,NA,NA,137,New Mexico Sentencing Commission
+35017,Grant County,NM,NA,NA,14.434973879571077,,,true,29503,29310,29096,NA,NA,42,New Mexico Sentencing Commission
+35019,Guadalupe County,NM,NA,NA,15.66696508504924,,,true,4701,4560,4468,NA,NA,7,New Mexico Sentencing Commission
 35021,Harding County,NM,NA,NA,14.641288433382138,,,true,749,688,683,NA,NA,1,New Mexico Sentencing Commission
-35023,Hidalgo County,NM,NA,NA,17.54385964912281,,,true,4921,4626,4560,NA,NA,8,New Mexico Sentencing Commission
-35025,Lea County,NM,NA,NA,21.857455106501522,,,true,59541,68347,69999,NA,NA,153,New Mexico Sentencing Commission
-35027,Lincoln County,NM,NA,NA,35.01471633005176,,,true,20588,20023,19706,NA,NA,69,New Mexico Sentencing Commission
+35023,Hidalgo County,NM,NA,NA,15.350877192982455,,,true,4921,4626,4560,NA,NA,7,New Mexico Sentencing Commission
+35025,Lea County,NM,NA,NA,21.714595922798896,,,true,59541,68347,69999,NA,NA,152,New Mexico Sentencing Commission
+35027,Lincoln County,NM,NA,NA,29.940119760479043,,,true,20588,20023,19706,NA,NA,59,New Mexico Sentencing Commission
 35028,Los Alamos County,NM,NA,NA,1.1310937676733401,,,true,18477,17831,17682,NA,NA,2,New Mexico Sentencing Commission
-35029,Luna County,NM,NA,NA,35.26121671462733,,,true,25303,24778,24673,NA,NA,87,New Mexico Sentencing Commission
-35031,McKinley County,NM,NA,NA,6.342951226753758,,,true,70541,73332,74098,NA,NA,47,New Mexico Sentencing Commission
-35033,Mora County,NM,NA,NA,15.24390243902439,,,true,4992,4673,4592,NA,NA,7,New Mexico Sentencing Commission
-35035,Otero County,NM,NA,NA,39.795949724962355,,,true,62200,65900,65082,NA,NA,259,New Mexico Sentencing Commission
-35037,Quay County,NM,NA,NA,38.81896247500294,,,true,9036,8697,8501,NA,NA,33,New Mexico Sentencing Commission
-35039,Rio Arriba County,NM,NA,NA,9.804660984991326,,,true,40335,40088,39777,NA,NA,39,New Mexico Sentencing Commission
-35041,Roosevelt County,NM,NA,NA,19.963144963144963,,,true,19186,19983,19536,NA,NA,39,New Mexico Sentencing Commission
-35043,Sandoval County,NM,NA,NA,21.655717690831928,,,true,114231,136479,137608,NA,NA,298,New Mexico Sentencing Commission
-35045,San Juan County,NM,NA,NA,6.866744759058045,,,true,125028,126448,123785,NA,NA,85,New Mexico Sentencing Commission
-35047,San Miguel County,NM,NA,NA,15.22716810085343,,,true,29388,28623,28239,NA,NA,43,New Mexico Sentencing Commission
-35049,Santa Fe County,NM,NA,NA,8.166626170999702,,,true,138786,147306,148164,NA,NA,121,New Mexico Sentencing Commission
-35051,Sierra County,NM,NA,NA,38.852097130242825,,,true,11997,11571,11325,NA,NA,44,New Mexico Sentencing Commission
-35053,Socorro County,NM,NA,NA,40.43905257076834,,,true,18081,17531,17310,NA,NA,70,New Mexico Sentencing Commission
-35055,Taos County,NM,NA,NA,18.740176520372387,,,true,32170,33030,33084,NA,NA,62,New Mexico Sentencing Commission
-35057,Torrance County,NM,NA,NA,41.63730702709628,,,true,16728,15713,15611,NA,NA,65,New Mexico Sentencing Commission
-35059,Union County,NM,NA,NA,18.617640214102863,,,true,4210,4381,4297,NA,NA,8,New Mexico Sentencing Commission
-35061,Valencia County,NM,NA,NA,12.793964414313413,,,true,71661,76270,75817,NA,NA,97,New Mexico Sentencing Commission
+35029,Luna County,NM,NA,NA,32.42410732379524,,,true,25303,24778,24673,NA,NA,80,New Mexico Sentencing Commission
+35031,McKinley County,NM,NA,NA,5.8031255904342895,,,true,70541,73332,74098,NA,NA,43,New Mexico Sentencing Commission
+35033,Mora County,NM,NA,NA,8.710801393728223,,,true,4992,4673,4592,NA,NA,4,New Mexico Sentencing Commission
+35035,Otero County,NM,NA,NA,37.49116499185643,,,true,62200,65900,65082,NA,NA,244,New Mexico Sentencing Commission
+35037,Quay County,NM,NA,NA,32.93730149394189,,,true,9036,8697,8501,NA,NA,28,New Mexico Sentencing Commission
+35039,Rio Arriba County,NM,NA,NA,8.799054730120421,,,true,40335,40088,39777,NA,NA,35,New Mexico Sentencing Commission
+35041,Roosevelt County,NM,NA,NA,18.93939393939394,,,true,19186,19983,19536,NA,NA,37,New Mexico Sentencing Commission
+35043,Sandoval County,NM,NA,NA,17.440846462414974,,,true,114231,136479,137608,NA,NA,240,New Mexico Sentencing Commission
+35045,San Juan County,NM,NA,NA,5.574181039705941,,,true,125028,126448,123785,NA,NA,69,New Mexico Sentencing Commission
+35047,San Miguel County,NM,NA,NA,12.748326782109848,,,true,29388,28623,28239,NA,NA,36,New Mexico Sentencing Commission
+35049,Santa Fe County,NM,NA,NA,6.546799492454308,,,true,138786,147306,148164,NA,NA,97,New Mexico Sentencing Commission
+35051,Sierra County,NM,NA,NA,26.490066225165563,,,true,11997,11571,11325,NA,NA,30,New Mexico Sentencing Commission
+35053,Socorro County,NM,NA,NA,24.263431542461003,,,true,18081,17531,17310,NA,NA,42,New Mexico Sentencing Commission
+35055,Taos County,NM,NA,NA,16.32208922742111,,,true,32170,33030,33084,NA,NA,54,New Mexico Sentencing Commission
+35057,Torrance County,NM,NA,NA,33.30984562167702,,,true,16728,15713,15611,NA,NA,52,New Mexico Sentencing Commission
+35059,Union County,NM,NA,NA,13.963230160577147,,,true,4210,4381,4297,NA,NA,6,New Mexico Sentencing Commission
+35061,Valencia County,NM,NA,NA,11.738792091483441,,,true,71661,76270,75817,NA,NA,89,New Mexico Sentencing Commission
 36001,Albany County,NY,25.877967367555602,24.591923699978498,22.8120102151078,true,true,true,303997,307418,308171,790,756,703,NCRP
 36003,Allegany County,NY,4.93644329260768,9.36329588014981,7.960449136919729,true,true,true,49359,48060,47736,24,45,38,NCRP
 36005,Bronx County,NY,19.0078829755638,13.381750515127301,11.5564412557999,true,true,true,1348164,1427317,1438159,2656,1910,1662,NCRP
